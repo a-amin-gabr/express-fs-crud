@@ -1,0 +1,44 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Laptop",
+      "description": "A high-performance laptop",
+      "category": "Electronics",
+      "price": 999.99,
+      "rate": 4.5
+    },
+    {
+      "id": 2,
+      "title": "Smartphone",
+      "description": "A latest model smartphone",
+      "category": "Electronics",
+      "price": 699.99,
+      "rate": 4.7
+    },
+    {
+      "id": 3,
+      "title": "Headphones",
+      "description": "Noise-cancelling headphones",
+      "category": "Electronics",
+      "price": 199.99,
+      "rate": 4.3
+    },
+    {
+      "id": 4,
+      "title": "Coffee Maker",
+      "description": "Automatic coffee maker",
+      "category": "Home Appliances",
+      "price": 89.99,
+      "rate": 4.0
+    },
+    {
+      "id": 5,
+      "title": "Blender",
+      "description": "High-speed blender for smoothies",
+      "category": "Home Appliances",
+      "price": 59.99,
+      "rate": 4.2
+    }
+  ]
+}
